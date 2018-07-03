@@ -1,6 +1,34 @@
-.Image1{
-    width: 1500px; 
+.navbar{
+color:white;
+background-color: black;
 }
-.Image2{
-    width: 1500px;
+.pictures{
+    background-color: white;
+    height:350px;
+}
+.fa-check-circle{
+    color: green;
+    align-self: left;
+}
+.fa-laptop{
+    color:blue;
+    align-self: center;
+}
+.fa-download{
+    color:red;
+}
+.columns{
+    background-color: white;
+    height: 350px;
+}
+.section{
+    background-color: green;
+    height: 450px;
+}
+.photo{
+    width: 350px;
+}
+.photo1{
+    height: 350px;
+    width: 950px;
 }
