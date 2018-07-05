@@ -1,6 +1,5 @@
-.navbar{
-color:white;
-background-color: black;
+body .navbar{
+    background-color: black;
 }
 .pictures{
     background-color: white;
@@ -9,26 +8,29 @@ background-color: black;
 .fa-check-circle{
     color: green;
     align-self: left;
+    padding-top:15px;
 }
 .fa-laptop{
     color:blue;
     align-self: center;
+    padding-top:15px;
 }
 .fa-download{
     color:red;
+    padding-top:15px;
 }
 .columns{
     background-color: white;
     height: 350px;
 }
 .section{
-    background-color: green;
+    background-color:#52AD81;
     height: 450px;
 }
 .photo{
     width: 350px;
 }
 .photo1{
-    height: 350px;
+    height: 310px;
     width: 950px;
 }
